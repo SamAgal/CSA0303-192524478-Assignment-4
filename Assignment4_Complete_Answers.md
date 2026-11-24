@@ -1,7 +1,7 @@
 # DATA STRUCTURES – ASSIGNMENT 4
 ## Complete Answers and Technical Report
 **Course:** Data Structures (CSA03) | **CO:** CO4 | **Total:** 50 marks  
-**Student:** Vimal R | **Register Number:** [ENTER REGISTER NUMBER]
+**Student:** J.Sam Agal | **Register Number:** [192524478]
 
 > Execution integrity: outputs labelled “expected” below are derived by tracing the supplied code. Benchmark figures must be generated on the student's machine by running the included programs. The report deliberately does not invent timing measurements.
 
