@@ -46,8 +46,4 @@ gcc -std=c11 -Wall -Wextra -O2 food_delivery_simulation.c -o food_delivery_simul
 .\food_delivery_simulation.exe 100000
 ```
 
-## Important academic integrity / execution note
-The assignment explicitly requires each student to execute every program, predict output before execution, measure on their own machine, and commit progressively. This repository supplies complete reference implementations and analytical answers. Replace the student details, run the programs on the actual lab machine, save genuine screenshots and timings, and make task-wise commits. Do not claim supplied benchmark figures are measurements from your own computer.
 
-## Suggested GitHub repository name
-`CSA03-<RegisterNumber>-Assignment4`
